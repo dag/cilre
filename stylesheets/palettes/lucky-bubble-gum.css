@@ -1,0 +1,19 @@
+body {
+    background: #100408;
+}
+
+p {
+    color: #CFBE86;
+}
+
+dfn {
+    color: #BEAE00;
+}
+
+h1, h2, h3 {
+    color: #E73059;
+}
+
+blockquote p {
+    color: #619279;
+}
