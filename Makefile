@@ -1,2 +1,2 @@
 html:
-	for f in *.docbook; do xsltproc -o $${f%.docbook}.html lesson.xsl $$f; done
+	for f in *.xml; do xsltproc -o $${f%.xml}.html lesson.xsl $$f; done
