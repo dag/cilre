@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="lesson.xsl" type="text/xsl"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+               "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<article lang="en" id="place-structure">
+    <title>Place structure</title>
+    <sidebar>
+        <section id="lesson-goal">
+            <title>Lesson goal</title>
+            <para>
+                Understanding how words are defined in Lojban,
+                so as to be able to use dictionaries and practice vocabulary.
+            </para>
+        </section>
+        <section id="what-should-i-read-first">
+            <title>What should I read first?</title>
+            <para>Perhaps you should at least know what Lojban is!</para>
+        </section>
+        <section id="what-should-i-read-next">
+            <title>What should I read next?</title>
+            <para>
+                You might want to learn how to
+                <ulink url="practicing-vocabulary-with-anki.html">
+                practice vocabulary with Anki</ulink> or
+                <ulink url="looking-up-words-with-makfa.html">
+                look up words with makfa</ulink>
+                but for more Lojban you could read about forming
+                <ulink url="simple-sentences-with-pronouns.html">
+                simple sentences with pronouns</ulink>.
+            </para>
+        </section>
+    </sidebar>
+    <section id="whats-in-a-sentence">
+        <title>What’s in a sentence?</title>
+        <para>Take this sentence:</para>
+        <blockquote>
+            <para>“I give you this.”</para>
+        </blockquote>
+        <para>
+            What make up this sentence?
+            The core of it is “give”.
+            That is the relation describing how the other things are involved
+            with each other, how they connect and relate.
+            Those involved things are “I”, “you” and “this”.
+            These could be said to be variable
+            — they are not fixed with the relation “give”.
+            Rather than giving you “this” I could give you “that” instead.
+            Or maybe it is you who give me something,
+            and we would still be describing a relationship of giving.
+            We could say that the relation “give” has three variable places
+            that we can fill with different things.
+            Thus we can define “give” as such:
+        </para>
+        <blockquote><para>Someone gives someone something.</para></blockquote>
+        <para>
+            We could label the variable places more clearly,
+            numbering them and using “x” which is commonly used
+            to describe something unknown or unspecified:
+        </para>
+        <blockquote>
+            <para>
+                x<subscript>1 [donor]</subscript> gives
+                x<subscript>2 [receiver]</subscript>
+                x<subscript>3 [gift]</subscript>
+            </para>
+        </blockquote>
+        <para>or more simply:</para>
+        <blockquote>
+            <para>
+                x<subscript>1</subscript> gives
+                x<subscript>2</subscript>
+                x<subscript>3</subscript>
+            </para>
+        </blockquote>
+        <para>
+            This says that we have a variable (“x”) place 1 that is a donor,
+            a place 2 that is a receiver and a place 3 that is a gift.
+            They share the relation “give”.
+        </para>
+        <para>
+            The Lojban word for “give” is <glossterm>dunda</glossterm>.
+            It has this definition:
+        </para>
+        <blockquote>
+            <para>
+                x<subscript>1</subscript> [donor] gives/donates gift/present
+                x<subscript>2</subscript> to recipient/beneficiary
+                x<subscript>3</subscript> [without payment/exchange]
+            </para>
+        </blockquote>
+        <para>We can simplify this:</para>
+        <blockquote>
+            <para>
+                x<subscript>1</subscript> gives
+                x<subscript>2</subscript> to
+                x<subscript>3</subscript>
+            </para>
+        </blockquote>
+        <para>
+            You might notice that the gift and receiver switched places here,
+            which we represented in English by adding the preposition “to”.
+        </para>
+        <para>
+            We call definitions like these “place structures”,
+            because they show the structure of the variable places we can fill.
+            In Lojban, we call the relation a <glossterm>selbri</glossterm>
+            and the variables <glossterm>sumti</glossterm>.
+            We call the whole sentence a <glossterm>bridi</glossterm>.
+            Linguists and logicians call the sentences
+            “predicate relationships”, the variables “arguments”
+            and the relations “predicates” or “predicate relations”.
+        </para>
+    </section>
+</article>
