@@ -2,7 +2,7 @@ body {
     background: #100408;
 }
 
-p, a, a:hover, a:visited, del {
+p, a, a:hover, a:visited {
     color: #CFBE86;
 }
 

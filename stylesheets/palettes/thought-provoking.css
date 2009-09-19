@@ -2,7 +2,7 @@ body {
     background: #512430;
 }
 
-p {
+p, a, a:hover, a:visited {
     color: #EFD379;
 }
 

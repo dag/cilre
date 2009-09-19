@@ -1,0 +1,19 @@
+body {
+    background: #967149;
+}
+
+p, a, a:hover, a:visited {
+    color: #FFFFD7;
+}
+
+dfn {
+    color: #FFEB20;
+}
+
+h1, h2, h3 {
+    color: #FFAE00;
+}
+
+blockquote p {
+    color: #F7E7BE;
+}
