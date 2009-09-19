@@ -30,6 +30,17 @@
                       href="stylesheets/screen.css"
                       type="text/css"
                       media="screen, projection" />
+                <script src="scripts/jquery.js" type="text/javascript">
+                </script>
+                <link href="scripts/facebox/facebox.css"
+                      media="screen"
+                      rel="stylesheet"
+                      type="text/css" />
+                <script src="scripts/facebox/facebox.js"
+                        type="text/javascript">
+                </script>
+                <script src="scripts/custom.js" type="text/javascript">
+                </script>
             </head>
             <body>
                 <div class="container">
@@ -74,6 +85,8 @@
     </xsl:template>
 
     <xsl:template match="glossterm">
-        <dfn><xsl:value-of select="."/></dfn>
+        <a href="dictionary/{.}.html" rel="facebox[.facebox]">
+            <dfn><xsl:value-of select="."/></dfn>
+        </a>
     </xsl:template>
 </xsl:stylesheet>

@@ -1,3 +1,8 @@
 body {
     padding: 3em;
 }
+
+.facebox {
+    padding: 2em;
+    width: 700px;
+}
