@@ -68,10 +68,6 @@
         <blockquote><xsl:apply-templates/></blockquote>
     </xsl:template>
 
-    <xsl:template match="quote">
-        “<xsl:apply-templates/>”
-    </xsl:template>
-
     <xsl:template match="para">
         <p><xsl:apply-templates/></p>
     </xsl:template>

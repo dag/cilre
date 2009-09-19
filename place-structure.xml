@@ -34,29 +34,27 @@
         <title>What’s in a sentence?</title>
         <para>Take this sentence:</para>
         <blockquote>
-            <para><quote>I give you this.</quote></para>
+            <para>“I give you this.”</para>
         </blockquote>
         <para>
             What make up this sentence?
-            The core of it is <quote>give</quote>.
+            The core of it is “give”.
             That is the relation describing how the other things are involved
             with each other, how they connect and relate.
-            Those involved things are <quote>I</quote>,
-            <quote>you</quote> and <quote>this</quote>.
+            Those involved things are “I”, “you” and “this”.
             These could be said to be variable
-            — they are not fixed with the relation <quote>give</quote>.
-            Rather than giving you <quote>this</quote>
-            I could give you <quote>that</quote> instead.
+            — they are not fixed with the relation “give”.
+            Rather than giving you “this” I could give you “that” instead.
             Or maybe it is you who give me something,
             and we would still be describing a relationship of giving.
-            We could say that the relation <quote>give</quote>
-            has three variable places that we can fill with different things.
-            Thus we can define <quote>give</quote> as such:
+            We could say that the relation “give” has three variable places
+            that we can fill with different things.
+            Thus we can define “give” as such:
         </para>
         <blockquote><para>Someone gives someone something.</para></blockquote>
         <para>
             We could label the variable places more clearly,
-            numbering them and using <quote>x</quote> which is commonly used
+            numbering them and using “x” which is commonly used
             to describe something unknown or unspecified:
         </para>
         <blockquote>
@@ -75,14 +73,12 @@
             </para>
         </blockquote>
         <para>
-            This says that we have a variable
-            (<quote>x</quote>) place 1 that is a donor,
+            This says that we have a variable (“x”) place 1 that is a donor,
             a place 2 that is a receiver and a place 3 that is a gift.
-            They share the relation <quote>give</quote>.
+            They share the relation “give”.
         </para>
         <para>
-            The Lojban word for <quote>give</quote>
-            is <glossterm>dunda</glossterm>.
+            The Lojban word for “give” is <glossterm>dunda</glossterm>.
             It has this definition:
         </para>
         <blockquote>
@@ -102,20 +98,17 @@
         </blockquote>
         <para>
             You might notice that the gift and receiver switched places here,
-            which we represented in English
-            by adding the preposition <quote>to</quote>.
+            which we represented in English by adding the preposition “to”.
         </para>
         <para>
-            We call definitions like these <quote>place structures</quote>,
+            We call definitions like these “place structures”,
             because they show the structure of the variable places we can fill.
             In Lojban, we call the relation a <glossterm>selbri</glossterm>
             and the variables <glossterm>sumti</glossterm>.
             We call the whole sentence a <glossterm>bridi</glossterm>.
             Linguists and logicians call the sentences
-            <quote>predicate relationships</quote>,
-            the variables <quote>arguments</quote>
-            and the relations <quote>predicates</quote>
-            or <quote>predicate relations</quote>.
+            “predicate relationships”, the variables “arguments”
+            and the relations “predicates” or “predicate relations”.
         </para>
     </section>
 </article>
