@@ -1,3 +1,7 @@
 p {
     font-size: 140%;
 }
+
+h1, h2, h3 {
+    font-family: "DejaVu Serif", serif;
+}

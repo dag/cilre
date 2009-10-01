@@ -1,19 +1,17 @@
-body, .facebox {
+body {
     background: #100408;
 }
 
-p, a, a:hover, a:visited {
-    color: #CFBE86;
-}
-
-dfn {
-    color: #BEAE00;
+.container {
+    background: #fff;
+    border-left: 0.5em solid #CFBE86;
+    border-right: 0.5em solid #CFBE86;
 }
 
 h1, h2, h3 {
-    color: #E73059;
+    color: #100408;
 }
 
-blockquote p {
-    color: #619279;
+a, a:hover, a:visited {
+    color: #100408;
 }
