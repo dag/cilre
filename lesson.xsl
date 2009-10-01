@@ -47,7 +47,7 @@
                     <div class="span-8">
                         <xsl:apply-templates select="sidebar/section"/>
                     </div>
-                    <div class="prepend-2 span-14 last">
+                    <div class="prepend-1 span-15 last">
                         <h1><xsl:value-of select="title"/></h1>
                         <xsl:apply-templates select="section"/>
                     </div>
