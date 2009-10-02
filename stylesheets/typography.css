@@ -3,6 +3,17 @@ p {
 }
 
 h1, h2, h3 {
-    font-family: "DejaVu Serif", serif;
+    font-family: "Warnock Pro",
+                 "Goudy Old Style",
+                 "Palatino",
+                 "Book Antiqua",
+                 "Georgia",
+                 "DejaVu Serif",
+                 serif;
     text-transform: uppercase;
+    font-weight: lighter;
+}
+
+h2 {
+    font-style: italic;
 }
